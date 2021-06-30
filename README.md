@@ -37,18 +37,15 @@
 
 但是一定要记得一句话：**“设计上的完美不是没有东西可以再加，而是没有东西可以再减。”**
 
-![Amore][4]
-
 有生之年，欣喜相逢，与你共乘，愿你安好。
 
 能投喂一顿早餐嘛~
 
-![Treat][5]
+![Treat][4]
 
 
 
   [1]: https://book.douban.com/subject/25881855/
   [2]: https://amore.ink/archives/8/
   [3]: https://github.com/Tespera/Typecho-Theme-for-Amore
-  [4]: https://cdn.jsdelivr.net/gh/Tespera/CDN@main/2021-06-30/Amore.jpg
-  [5]: https://cdn.jsdelivr.net/gh/Tespera/CDN@main/2021-06-30/Treat.png
+  [4]: https://cdn.jsdelivr.net/gh/Tespera/CDN@main/2021-06-30/Treat.png
